@@ -61,28 +61,40 @@ endmodule
 ### Output:
 ### Logic symbol & Truthtable
 ## Half Adder:
-![model](P3.png)
+![P3](https://user-images.githubusercontent.com/119393563/215380734-26dc8ef6-cfad-45eb-85c1-4d895e609c58.png)
+<br>
+
 ## Full Adder:
-![model](p4.png)
+![p4](https://user-images.githubusercontent.com/119393563/215380758-4c49382f-389f-4da8-be4f-bbaa4431f45b.png)
+<br>
 
 ### RTL realization
 ## Half Adder:
-![model](p5.png)
+![p5](https://user-images.githubusercontent.com/119393563/215380799-a3bc133c-1b34-4625-9410-f0484e7cd95d.png)
+<br>
+
 ## Full Adder:
-![model](p6.png)
+![p6](https://user-images.githubusercontent.com/119393563/215380820-5d60f278-1c0b-4faa-861e-375fa4143f94.png)
+<br>
 
 ### TIMING DIAGRAM
 ## Half Adder:
-![model](p7.png)
+![p7](https://user-images.githubusercontent.com/119393563/215380850-293130ab-9fae-4f11-99ee-0069ef9a30ce.png)
+<br>
+
 ## Full Adder:
-![model](p8.png)
+![p8](https://user-images.githubusercontent.com/119393563/215380880-f14f83b0-b9d4-436d-8632-079a36b8f1c3.png)
+<br>
 
 
 ### TRUTH TABLE 
 ## Half Adder:
-![model](p9.png)
+![p9](https://user-images.githubusercontent.com/119393563/215380970-bb47c93b-329b-4586-b587-6f03692cf37d.png)
+<br>
+
 ## Full Adder:
-![model](p10.png)
+![p10](https://user-images.githubusercontent.com/119393563/215381008-fc0ad107-2cde-46b4-a466-d0377ed89172.png)
+<br>
 
 ### Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
